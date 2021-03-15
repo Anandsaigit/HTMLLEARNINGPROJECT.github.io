@@ -1,0 +1,45 @@
+.ets{
+
+   /* margin: 20px;*/
+   background-color: skyblue;
+  /* border: 10px solid;
+   padding: 20px;*/
+   width: 200px;
+   height: 200px;
+   position: absolute;
+   top: 0.2px;
+   left: 0.2px;
+
+}
+.ts{
+
+  background-color: slategrey;
+  width: 200px;
+  height: 200px;
+  /*border: solid 20px;
+  margin-left: 260px;*/
+  position: absolute ;
+   left: 200px;
+   top: 200px;
+}
+.s{
+
+background-color: tomato;
+width: 200px;
+height: 200px;
+/*border:10px solid;
+margin-left: 500px;*/
+position: absolute;
+   left: 400px;
+   top: 400px;
+
+}
+.REF{
+
+background-color: yellow;
+
+
+
+
+}
+
